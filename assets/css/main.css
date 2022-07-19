@@ -608,6 +608,30 @@ a:hover
 
 /** 8. Content Area --> Work
 *******************************************************************/
+#work .showcase .title_item
+{
+    position: relative;
+
+    overflow: hidden;
+
+    /* width: 90%; */
+    height: 6rem;
+/*    height: 34rem; */
+    margin: 0;
+    margin-bottom: 6vh;
+
+    cursor: pointer;
+
+    /* border-radius: 3rem; */
+    background: rgb(255, 255, 255);
+}
+
+#work .showcase .title_item .h55
+{
+
+color:rgb(124, 124, 247);
+
+}
 
 #work .showcase .item
 {
